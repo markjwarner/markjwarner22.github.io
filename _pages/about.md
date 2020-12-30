@@ -1,8 +1,8 @@
 ---
+layout: archive
+title: "About"
 permalink: /
-3
 author_profile: true
-4
 ---
 
 I am Lecturer in computer and information sciences at Northumbria University in Newcastle, and also have an interest in the fields of psychology and sociology. I draw from these disciplines in my research which is centred around understanding and improving various online social interactions and computer and AI-mediated communication behaviours. I’m particularly interested in how communication technologies impact on wellbeing and how these same technologies could be designed to improve wellbeing (e.g. supporting kinder and more supportive online interpersonal communications and community engagements).
