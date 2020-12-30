@@ -1,16 +1,30 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+
+
+{% include base_path %}
+
+
+## Publications
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+## 2021
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Mark Warner, Laura Lascau, Anna Cox, Duncan Brumby, Ann Blandford
+**“Oops...”: Mobile Message Deletion in Conversation Error and Regret Remediation**  
+CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2020), to appear
+
+## 2020
+
+Kitkowska, A., Warner, M., Shulman, Y., Wästlund, E., & Martucci, L. A.
+** Enhancing Privacy through the Visual Design of Privacy Notices: Exploring the Interplay of Curiosity, Control and Affect**
+Sixteenth Symposium on Usable Privacy and Security (SOUPS 2020)
+[pdf](https://www.usenix.org/system/files/soups2020-kitkowska.pdf){: .btn--danger}{:target="_blank"}  
+
