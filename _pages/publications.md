@@ -70,7 +70,6 @@ Juan F Maestre, Elizabeth V Eikey, Mark Warner, Svetlana Yarosh, Jessica Pater, 
 In Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (pp. 385-392). ACM.
 [pdf](https://doi.org/10.1145/3272973.3273003){: .btn--danger}{:target="_blank"}
 
-### Workshop Papers
 
 Mark Warner
 **Using Online "Public" Data in Research on Stigmatised Communities**
@@ -80,3 +79,5 @@ Mark Warner and Ann Blandford
 **Do I Really Have To Publicly Disclose My HIV Status?**
 In CHI'2018 Workshop Moving Beyond a 'One-Size Fits All' Approach: Exploring Individual Differences In Privacy.
 [pdf](https://uclic.ucl.ac.uk/publications/1547209){: .btn--danger}{:target="_blank"}
+
+
