@@ -23,7 +23,7 @@ CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2020), to 
 
 ## 2020
 
-Kitkowska, A., Warner, M., Shulman, Y., Wästlund, E., & Martucci, L. A.
+Agnieszka Kitkowska, Mark Warner, Yefim Shulman, Erik Wästlund, Leonardo A Martucci
 ** Enhancing Privacy through the Visual Design of Privacy Notices: Exploring the Interplay of Curiosity, Control and Affect**
 Sixteenth Symposium on Usable Privacy and Security (SOUPS 2020)
 [pdf](https://www.usenix.org/system/files/soups2020-kitkowska.pdf){: .btn--danger}{:target="_blank"}  
